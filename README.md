@@ -23,3 +23,5 @@ Reasons (or descriptions, in the case of misc votes,) must be written in double 
 Examples:  
 ~vote ban @Minky "Violation of rule #3"  
 ~vote misc @Photon "Invite David?" 60
+
+After being opted into the candidate pool, you will be considered every two days for community manager. Community manager can create and delete roles and channels, and can add and remove roles from people, but cannot perform any actual administrative functions.
